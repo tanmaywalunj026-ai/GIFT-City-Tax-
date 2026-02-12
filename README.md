@@ -1,4 +1,3 @@
-# GIFT-City-Tax-
 import React, { useState, useMemo } from 'react';
 import { Calculator, TrendingUp, DollarSign, Percent } from 'lucide-react';
 
